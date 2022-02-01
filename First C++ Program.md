@@ -1,6 +1,4 @@
-### Assignment
-First C++ Program
-
+## Assignment 1: First C++ Program
 Due Date: January 27, 2021
 
 ### Purpose
