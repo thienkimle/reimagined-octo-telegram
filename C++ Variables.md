@@ -1,7 +1,7 @@
-# Assignment 7: C++ Variables
+## Assignment 7: C++ Variables
 Due Date: March 7, 2021
 
-## Problem 1
+### Problem 1
 This program is made to demonstrate storing data, calculations, declaring variables, assigning expressions
 
 ```C++ 
@@ -35,7 +35,7 @@ return 0;
 }
 ```
 
-## Problem 2
+### Problem 2
 This program is made to demonstrate storing data, calculations, declaring variables, assigning expressions
 
 ```C++
@@ -60,7 +60,7 @@ return 0;
 }
 ```
 
-## Problem 3
+### Problem 3
 This program is made to demonstrate storing data, calculations, declaring variables, assigning expressions
 
 ```C++
@@ -82,7 +82,7 @@ return 0;
 }
 ```
 
-## Problem 4
+### Problem 4
 This program is made to demonstrate storing data, calculations, declaring variables, assigning expressions
 
 ```C++
@@ -116,7 +116,7 @@ return 0;
 }
 ```
 
-## Problem 5
+### Problem 5
 This program is made to demonstrate storing data, calculations, declaring variables, assigning expressions
 
 ```C++
