@@ -1,12 +1,13 @@
-### Assignment Description: First C++ Program
+### Assignment
+First C++ Program
+Due Date: January 27, 2021
+
+### Purpose
+This purpose of this program is to print out messages/texts
+
+Program uses cout
 
 ```C++
-// ThienKimLe FirstC++Program.cpp: This file contains the 'main' function. Program execution begins and ends there.
-// Author: Thien Kim Le
-// IDE/Platform: Code: Blocks/Windows PC
-// Last Updated: January 27, 2021
-// Purpose: print message on screen
-// Program uses cout 
 #include <iostream>
 using namespace std;
 int main()
